@@ -1,0 +1,7 @@
+{
+  "name": "scapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
